@@ -1,5 +1,6 @@
 # Prototype-GPUAnimation_BoneTRS
-将蒙皮动画支持GPUInstancing的一个方案。这是我参考(抄的)**UWA实现的方案**，自己重新实现了一遍**学习用的仓库**。功能只有播放和暂停动画，比较简单，作为一个方案的原型.
+将蒙皮动画支持GPUInstancing的一个方案。这是我参考(抄的)**UWA实现的方案**，自己重新实现了一遍**学习用的仓库**。  
+功能只有播放和暂停动画，比较简单，作为一个方案的原型.
 
 参考的文章:https://zhuanlan.zhihu.com/p/36896547
 参考的仓库:https://github.com/Unity-Technologies/Animation-Instancing
